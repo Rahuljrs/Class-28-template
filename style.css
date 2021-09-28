@@ -1,0 +1,87 @@
+img{
+    max-width: 100%;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.top-header img {
+    width: 117px;
+    padding: 15px 0px;
+}
+.top-header li {
+    padding: 0px 7px;
+}
+.banner{
+    background-color: #f9f9ff;
+}
+.banner-text{
+    margin-top: 150px;
+}
+.banner-text p {
+    margin: 20px 0px;
+}
+ .about-text{
+    margin-top: 50px;
+}
+.number-counter{
+    background-color: #8490ff;
+}
+.economy{
+    background-color: #f9f9ff;
+}
+.economy-chart{
+    background-color: #f9f9ff;
+}
+.economy-items{
+    box-shadow: 2px 4px 30px 0 rgba(64,87,191,.1);
+}
+.economy-items h3 {
+    width: 98px;
+    height: 98px;
+    text-align: center;
+    display: inline-block;
+    background-color: #f9f9ff;
+    line-height: 98px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.economy-items p {
+    font-size: 17px;
+    color: #a7a7a7;
+    margin-top: 28px;
+}
+.economy-btn a {
+   
+    box-shadow: 0px 2px 24px 0px rgba(40, 67, 112,30%);
+}
+.team-members{
+    margin: 80px 0px 20px;
+   
+}
+.team-members .card img {
+    width: 95px;
+    height: auto;
+    margin-top: -66px;
+    margin-left: 12px;
+}
+.team-members .card-body p {
+    margin-top: 30px;
+}
+.team-members .card-body a {
+    margin: 10px 0px 20px;
+}
+.contact{
+    background-color: #f9f9ff;
+}
+.contact-left{
+background-color: #fff;
+padding: 45px;
+}
+.contact-right {
+    margin-top: 74px;
+    margin-left: 27px;
+    font-weight: 500;
+}
+.footer p {
+    margin-bottom: 0;
+}

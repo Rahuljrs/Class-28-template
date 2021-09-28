@@ -1,0 +1,35 @@
+@media (max-width:992px) {
+    .top-header li {
+        padding: 0px 2px;
+    }
+    .about-text {
+        margin-top: 11px;
+    }
+    
+}
+@media (max-width:768px) {
+   
+    .py-5 {
+        padding-top: 1rem !important;
+        padding-bottom: 1rem !important;
+    }
+   
+    .banner-text {
+        margin-top: 50px;
+        text-align: justify;
+    }
+  
+    .ml-5 {
+        margin-left: 1rem !important;
+    }
+    .about .banner-text.about-text {
+        margin-top: 20px;
+    }
+    
+}
+@media (max-width:576px) {
+    
+    .ml-5 {
+        margin-left: 1rem !important;
+    }
+}
